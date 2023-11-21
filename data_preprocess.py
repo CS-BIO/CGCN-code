@@ -3,7 +3,7 @@ from torch_geometric.data import Data
 from torch.utils.data import Dataset, DataLoader
 from utils import *
 from GraphRicciCurvature.FormanRicci import FormanRicci
-from GraphRicciCurvature.OllivierRicci import OllivierRicci
+from GraphRicciCurvature.OllivierRicci import OllivierRicci 
 
 
 class Data_class(Dataset):
