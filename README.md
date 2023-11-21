@@ -6,7 +6,7 @@ The code for paper "Curvature-enhanced Graph Convolutional Network for Biomolecu
 ## Overview
 ![overview](.//overview.jpg)
 
-## Dependencies
+## Dependencies 
 * numpy == 1.23.3
 * scipy == 1.5.2
 * sklearn == 0.23.2
